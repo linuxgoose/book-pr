@@ -12,7 +12,7 @@ Here are the available options to read the book:
 
 - You can find the PDF and ePub versions on [Gumroad](https://scastiel.gumroad.com/l/pull-requests-code-review) (pay what you want, starting from $0) or [Amazon](https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0CKWSJ4NL) ($2.99).
 
-As a bonus, you’ll find on the repository all that is necessary to build the PDF and ePub versions book using [Pandoc](https://pandoc.org). Feel free to reuse it or use it for inspiration to distribute your own book!
+As a bonus, you’ll find in the repository all that is necessary to build the PDF and ePub versions book using [Pandoc](https://pandoc.org). Feel free to reuse it or use it for inspiration to distribute your own book!
 
 ## License
 
